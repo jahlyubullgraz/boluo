@@ -7,7 +7,7 @@
 100003={会员开关="真"};
 100004={更新说明="更新说明：|安装新版本前请卸载旧版本|1.增加了自动播放功能|2.优化了电影电视的播放速度"};
 100020={公告内容="全网视频在线免费观看，喜欢的话推荐给朋友哦~  在线客服QQ 599881818 面向全网招收代理"};
-100080={QQ="599881818",WX="xiaoboluokeji",URL="https://pan.baidu.com/s/1mjUEM4w",URL2="https://pan.baidu.com/s/1mjUEM4w"};
+100080={QQ="599881818",WX="xiaoboluokeji",URL="https://pan.baidu.com/s/1dgUnPO",URL2="https://pan.baidu.com/s/1dgUnPO"};
 zhiliao=[qun=暂无 ‖直播公告2=全网视频在线免费观看，喜欢的话推荐给朋友哦~  在线客服QQ 599881818 面向全网招收代理‖直播公告=全网视频在线免费观看，喜欢的话推荐给朋友哦~  在线客服QQ 599881818 面向全网招收代理‖直播地址=http://tv.wosb.cn‖]
 </ADMIN10000>
 

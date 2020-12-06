@@ -17,7 +17,7 @@
 *设置需要显示的支付方式(已集成：alipay,wxpay,qqpay)
 100003={alipay,wxpay,qqpay};
 *设置网页购买地址
-200000={URL="http://t.cn/R8xPz2m"};
+200000={URL="http://wpa.qq.com/msgrd?v=3&uin=599881818&site=qq&menu=yes"};
 
 txt01={
 @1001="http://www.zuopay.com/details/5FC21D402351BFB2" *天卡
